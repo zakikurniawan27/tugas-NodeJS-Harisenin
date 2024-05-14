@@ -24,6 +24,7 @@
     "cors": "latest",
     "dotenv": "latest",
     "express": "latest",
+    "firebase": "^10.12.0",
     "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.9.4",
     "sequelize": "^6.6.5",
